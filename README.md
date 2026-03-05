@@ -1,16 +1,98 @@
-## Hi there 👋
+# 👨‍💻 Emanuel Reis
 
-<!--
-**emanuelreis-sec/emanuelreis-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring SOC Analyst | Blue Team | Threat Detection | Incident Response  
 
-Here are some ideas to get you started:
+I am currently building practical experience in **cybersecurity and defensive security operations**, focusing on detecting, analysing, and responding to cyber threats in simulated environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My learning journey is focused on **Security Operations Center (SOC) practices**, threat monitoring, and incident investigation using hands-on labs and security analysis.
+
+
+
+🔎 Current Focus
+
+- Defensive Security
+- Security Monitoring
+- Threat Detection
+- Incident Response
+- Web Application Security
+- SOC Analyst Operations
+
+
+
+🧪 Cybersecurity Labs & Investigations
+
+This repository documents practical labs and security investigations performed in controlled environments.
+
+🏦 FakeBank Security Labs (TryHackMe)
+
+**Offensive Security Intro**  
+Simulated attacker behaviour to identify vulnerabilities in a banking web application.
+
+Key activities:
+- Reconnaissance
+- Directory enumeration
+- Identification of hidden endpoints
+- Exploitation of insecure admin functionality
+- Security risk analysis
+
+**Defensive Security Intro**  
+SOC Analyst simulation focused on detecting and responding to an ongoing cyber attack.
+
+Key activities:
+- IDS monitoring and alert analysis
+- Detection of suspicious activity
+- Investigation of web discovery attack
+- SQL Injection attack identification
+- Incident response and mitigation actions
+
+Mitigation strategies applied:
+- IP blocking
+- Rate limiting
+- Security rule updates
+- Incident documentation
+
+
+
+🛠️ Skills Developing
+
+- Security Event Monitoring
+- IDS / Alert Investigation
+- Threat Analysis
+- Incident Response
+- Web Application Security
+- Risk Assessment
+- Security Documentation
+
+
+
+🧠 Learning Platforms
+
+- TryHackMe
+- Cybersecurity Blue Team Labs
+- Security Research and Practice
+
+
+
+📚 Cybersecurity Portfolio
+
+You can explore my cybersecurity practice and investigation reports in my repositories.
+
+These labs demonstrate my ability to:
+
+- Analyse cyber threats
+- Think like an attacker and defender
+- Investigate security alerts
+- Document incidents professionally
+- Recommend mitigation strategies
+
+
+
+ 🎯 Goal
+
+My goal is to continue developing strong **SOC Analyst skills** and contribute to protecting systems, networks, and data from cyber threats.
+
+Cybersecurity is not only about technology — it is about **anticipating threats, analysing behaviour, and responding effectively.**
+
+---
+
+🛡️ *Learning every day. Thinking like an attacker. Acting like a defender.*
