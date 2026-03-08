@@ -4,7 +4,7 @@
 
 I have theorical and practical knowledge taken by Google Cybersecurity Professional Certification as entry level roles.
 
-I am currently building practical experience in **cybersecurity defensive security operations**, focusing on detecting, analysing, and responding to cyber threats in simulated environments. I am currently also practicing Python programming to improve to deepen my knowledge and skills, focusing on practice through the Sololearn courses application.
+I am currently building practical experience in **cybersecurity defensive security operations - Blue Team**, focusing on detecting, analysing, and responding to cyber threats in simulated environments. I am currently also practicing Python programming to improve to deepen my knowledge and skills, focusing on practice through the Sololearn courses application.
 
 My learning journey is focused on **Security Operations Center (SOC) practices**, threat monitoring, and incident investigation using hands-on labs and security analysis. Knowing deppen how to code and understanding better the machines language, essential for this field.
 
